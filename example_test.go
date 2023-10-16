@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"occult.work/improvmx"
+	"github.com/Lytol/go-improvmx"
 )
 
 func Example_account() {
